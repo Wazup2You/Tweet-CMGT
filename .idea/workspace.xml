@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5c1712b-46ab-4ce1-9976-8320877fd992" name="Default Changelist" comment="" />
+    <list default="true" id="f5c1712b-46ab-4ce1-9976-8320877fd992" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_10_13_112148_create_follows_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TweetController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TweetController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/_friends-list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/_friends-list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/_publish-tweet-panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/_publish-tweet-panel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +23,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -122,11 +134,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ilxfLblrgmaarxR44fuY2wlAtZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
@@ -154,11 +170,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602496081640</updated>
-      <workItem from="1602496082741" duration="6727000" />
+      <workItem from="1602496082741" duration="17045000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="334" key="Github.ShareDialog" timestamp="1602587265846">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="555" y="334" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1602587265846" />
+    <state x="454" y="141" key="Github.UntrackedFilesDialog" timestamp="1602587272929">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="454" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1602587272929" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1602760165508">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1602760165508" />
   </component>
 </project>
